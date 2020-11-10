@@ -8,4 +8,4 @@
 
 ## 部署
 
-详情看 [https://21yunbox.com/docs/#/deploy-hexo](https://21yunbox.com/docs/#/deploy-hexo)
+详情看 [https://www.21yunbox.com/docs/v2/static.html#hexo](https://www.21yunbox.com/docs/v2/static.html#hexo)
